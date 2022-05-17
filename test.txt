@@ -2,7 +2,7 @@ test
 
 my name is Greg
 
-GitHub is linked
+I linked Github
 
 I have mde edits in the browser
 
